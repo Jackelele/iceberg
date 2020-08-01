@@ -1,0 +1,26 @@
+{
+  "name": "iceberg",
+  "version": "1.0.0",
+  "description": "The Iceberg Dashboard Created using Tailwindcss",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.6.0",
+    "tailwindcss-multi-theme": "^1.0.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/custom-forms": "^0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackelele/iceberg.git"
+  },
+  "author": "Elele Team",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Jackelele/iceberg/issues"
+  },
+  "homepage": "https://github.com/Jackelele/iceberg#readme"
+}
