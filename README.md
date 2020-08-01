@@ -8,7 +8,8 @@
 
 ---
 
-<p align="center"> This repository is dedicated to the [Iceberg](https://bit.ly/2Xjh2h8) Guild.
+<p align="center"> 
+    This repository is dedicated to the Iceberg Guild.
     <br> 
 </p>
 
@@ -22,7 +23,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This repository includes the source code to the website for The Iceberg Hypixel guild. The current website is [https://theiceberg.me/](https://theiceberg.me/)
+This repository includes the source code to the website for The Iceberg Hypixel guild. The current website is [https://theiceberg.me/](https://theiceberg.me/) and [Hypixel Thread](https://bit.ly/2Xjh2h8).
 
 ## 🎈 Usage <a name="usage"></a>
 
