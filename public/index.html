@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html :class="{ 'theme-dark': dark }" x-data="data()" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>The Iceberg Guild</title>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+        <link href="assets/css/tailwind.style.css" rel="stylesheet"/>
+        <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+        <script src="assets/js/init-alpine.js"></script>
+    </head>
+    <body>
+        <div class="flex h-screen bg-blue-50 dark:bg-blue-800" :class="{ 'overflow-hidden': isSideMenuOpen }">
+            <!-- Desktop Sidebar -->
+            <aside class="z-20 hidden overflow-y-auto bg-white text-gray-800 dark:text-gray-2000" href="index.html">Iceberg</aside>
+        </div>
+    </body>
+</html>
